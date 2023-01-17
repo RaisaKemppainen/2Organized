@@ -25,5 +25,3 @@ Design
 Frontend
 Gå in och välja "rum"
 
-The link to your public GitHub repo:
-https://github.com/Ecksmas/2OrganisedOG
