@@ -1,6 +1,3 @@
-
-
-
 # Description
 School project with Spring Boot Maven. H2 Database implementation with JPA. 
 Organizing your stuff in your home. Create rooms and and items in your rooms. You can edit, delete and add items and rooms in your house.
