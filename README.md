@@ -1,6 +1,13 @@
+# 2Organized
 # Description
 School project with Spring Boot Maven. H2 Database implementation with JPA. 
 Organizing your stuff in your home. Create rooms and and items in your rooms. You can edit, delete and add items and rooms in your house.
+- SpringBoot
+- Maven
+- JPA
+- H2
+- Thymleaf
+- CSS
 
 ## Home page
 ![image](https://user-images.githubusercontent.com/56631651/213812957-a6d997da-86d5-4d21-a4e8-1193d0f9f535.png)
