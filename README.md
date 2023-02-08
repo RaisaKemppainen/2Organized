@@ -25,3 +25,7 @@ Organizing your stuff in your home. Create rooms and and items in your rooms. Yo
 
 ## Add, edit and delete items in a room. And also delete the room.
 ![image](https://user-images.githubusercontent.com/56631651/213813317-bcc0d671-095a-488b-858a-cc81cd0ec556.png)
+
+
+## Visit the github repo for the project.
+https://github.com/RaisaKemppainen/2Organized
